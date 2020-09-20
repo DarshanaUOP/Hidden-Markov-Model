@@ -17,3 +17,4 @@ b_jk = 1;
 alpha = [0.25 0.25 0.25 0.25];    
 
 alpha = b_jk * aplha * a;
+%% TODO - Attach description Image 
