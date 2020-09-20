@@ -3,6 +3,7 @@ clear;
 initProb = [
     0.97 0.01 0.01 0.01
     ];
+% Emmission Probabilities
 Emission = [
     0.10 0.23 0.41 0.26     % From state 1 to another states
     0.21 0.40 0.14 0.25     % From state 2
@@ -10,6 +11,7 @@ Emission = [
     0.23 0.37 0.31 0.09     % From state 4
     ];
 
+% Transition Probabilities
 Trans = [
     0.55 0.25 0.10 0.10     % Emission probabilities From state 1
     0.11 0.49 0.18 0.22     % Emission probabilities From state 2
