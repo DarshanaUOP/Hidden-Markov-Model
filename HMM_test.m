@@ -44,3 +44,5 @@ for i1 = 1:length(testSequence)
     fprintf('Input value %d - Est : %d\n',inputVal,estimatedVal);
     
 end
+
+% TODO - Test for defferent cases.
